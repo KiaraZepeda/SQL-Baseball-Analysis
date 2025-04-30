@@ -32,31 +32,37 @@ The `sql-baseball-analysis.ipynb` notebook includes:
 - Rangers wins vs. attendance over time
 - Fans-per-win ratio
 
-## Visualizations and Highlights
+## Visualizations 
 
 The `tableauBaseballVisualizations.pptx` file includes:
 - Wins and runs for the team per year
-    ![Wins and Runs](images/Wins_Runs.jpg)
-- Batting average trends
+    ![Wins and Runs](Wins_Runs.jpg)
 - Win comparison within the division
-    ![Win Comparison](images/WinComparison.jpg)
-- Salary box plots
+    ![Win Comparison](WinComparison.jpg)
 - Batting average, wins, and runs dashboard
-    ![Dashboard](images/Dashboards.jpg)
+    ![Dashboard](Dashboards.jpg)
 
-## Insights
+Other visuals included:
+- Batting average trends
+- Salary distribution box plots
+  
+## Key Insights
 
-- Texas Rangers have won 2 Wild Card, 4 Division wins, 3 League wins, and 1 world series between 2000-2023
-- Between 2000 and 2023, the team has been ranked 1st place on 4 occasions
-- The highest Texas Rangers' attended game was in 2012 at Rangers Ballpark in Arilingtion, TX with 3,460,280 people present
-- They played 51 home games between 1969-2023
+-  Between 2000 and 2023, the Rangers earned:
+   - 2 Wild Card wins
+   - 4 Division titles
+   - 3 League wins
+   - 1 World Series championship
+- The team ranked 1st in its division **four times** between 2000–2023
+- The **highest-attended** Rangers game season occurred in **2012**, with **3,460,280** total fans at Rangers Ballpark in Arlington, TX
+- The team played **51 total home games** between 1969–2023
 
 ## Next Steps
 
 - Integrate playoff appearance data for deeper context
-- Integrate more game data (only had home games)
+- Expand beyond home games to analyze full-season performance
 - Analyze visiting team impact on Rangers attendance
-- Add more intricate Tableau dashboards
+- Build dynamic Tableau dashboards with filters by year, team, and stadium
 
 ## Acknowledgements
 - Arpan Gupta Data Scientist, IITian on Youtube for a very helpful SQL queries in Kaggle tutorial
